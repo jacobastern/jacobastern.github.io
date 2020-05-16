@@ -11,7 +11,7 @@ title                    : "Jacob Stern / Personal Website"
 title_separator          : "-"
 name                     : &name "Jacob Stern"
 description              : &description "CS PhD student at Brigham Young University. Researching protein design with deep learning."
-url                      : https://jacobastern.com
+url                      : "https://jacobastern.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jastern33/jastern33.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/jacob-stern-4000927b/
+  linkedin         : "https://www.linkedin.com/in/jacob-stern-4000927b/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

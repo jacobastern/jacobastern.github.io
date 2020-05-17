@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Stern"
-  avatar           : "/images/prof.jpg"
+  avatar           : "profile.png"
   bio              : "CS PhD student at Brigham Young University. Researching protein design with deep learning."
   location         : "Provo, UT"
   employer         :

@@ -11,9 +11,9 @@ title                    : "Jacob Stern's Personal Website"
 title_separator          : "-"
 name                     : &name "Jacob Stern"
 description              : &description "personal description"
-url                      : https://jastern33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jacobastern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jastern33/jastern33.github.io"
+repository               : "jacobastern/jacobastern.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jacob Stern"
   # avatar           : "images/.jpg"
-  avatar           : https://jastern33.github.io/images/prof.jpg
+  avatar           : https://jacobastern.github.io/images/prof.jpg
   bio              : "CS PhD student at Brigham Young University. Researching protein design with deep learning."
   location         : "Provo, UT"
   employer         :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jastern33"
+  github           : "jacobastern"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : "9270181/jacob-stern"
   steam            :
   tumblr           :
-  twitter          : "@jastern33"
+  twitter          : "@jacobastern33"
   vine             :
   weibo            :
   xing             :

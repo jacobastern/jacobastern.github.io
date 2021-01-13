@@ -3,8 +3,7 @@ permalink: /blog/
 title: "Blog"
 excerpt: "Blog"
 author_profile: true
-redirect_from: 
-  - /blog/
+redirect_from:  
   - /blog.html
 ---
 # [Explaining Self-Attention in the Context of Soft Attention](https://medium.com/deep-learning-for-protein-design/explaining-self-attention-in-the-context-of-soft-attention-9cec05a63349)

@@ -13,7 +13,8 @@ main:
     url: https://github.com/jacobastern
         
   - title: "Blog"
-    url: https://medium.com/deep-learning-for-protein-design
+    url: /blog/
+    #    url: https://medium.com/deep-learning-for-protein-design
     
   - title: "CV"
     url: /files/Jacob_Stern_CV.pdf

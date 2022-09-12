@@ -13,7 +13,8 @@ main:
     url: https://github.com/jacobastern
         
   - title: "Blog"
-    url: /blog/
+    # url: /blog/
+    url: https://www.zontal.io/zontal-blog/author/jacob-stern
     #    url: https://medium.com/deep-learning-for-protein-design
     
   - title: "CV"
